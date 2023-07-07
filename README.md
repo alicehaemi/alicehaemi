@@ -3,4 +3,4 @@ I am a junior pursuing a Bachelor of Science in Data Science at Purdue Universit
 
 <img align= "right" alt="GIF" src="https://github.com/alicehaemi/alicehaemi/assets/88690930/7ac56a3d-3e27-44e1-b285-617286740296" width="300" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicehaemi)](https://github.com/alicehaemi/github-readme-stats)
