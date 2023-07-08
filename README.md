@@ -3,6 +3,6 @@ I am a junior pursuing a Bachelor of Science in Data Science at Purdue Universit
 
 <img align= "right" alt="GIF" src="https://github.com/alicehaemi/alicehaemi/assets/88690930/7ac56a3d-3e27-44e1-b285-617286740296" width="300" />
 
-<a href="https://www.linkedin.com/in/alicehaemi/">
+<a href="https://www.linkedin.com/in/haemi-lee/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>  
   </a> 
