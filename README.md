@@ -5,9 +5,7 @@ I am a junior pursuing a Bachelor of Science in Data Science at Purdue Universit
 </p>
 <img align= "right" alt="GIF" src="https://github.com/alicehaemi/alicehaemi/assets/88690930/7ac56a3d-3e27-44e1-b285-617286740296" width="300" />
 
-<h1 align="center">
-Skills 
-</h1>
+# Skills 
 
 <p align="center">
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,9 +18,7 @@ Skills
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </p>
 
-<h1 align="center">
-Stay in Touch! 
-</h1>
+# Stay in Touch! 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/haemi-lee/">
