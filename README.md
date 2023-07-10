@@ -7,7 +7,6 @@ I am a junior pursuing a Bachelor of Science in Data Science at Purdue Universit
 
 # Skills 
 
-<p align="center">
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -16,11 +15,9 @@ I am a junior pursuing a Bachelor of Science in Data Science at Purdue Universit
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-</p>
 
 # Stay in Touch! 
 
-<p align="center">
 <a href="https://www.linkedin.com/in/haemi-lee/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>  
 </a> 
@@ -28,4 +25,3 @@ I am a junior pursuing a Bachelor of Science in Data Science at Purdue Universit
 <a href="mailto: alicehaemilee@gmail.com"> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
-</p>
