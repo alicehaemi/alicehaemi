@@ -1,12 +1,13 @@
+<h1>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F780C1&width=435&lines=Welcome+to+my+page.+I'm+Alice!)](https://git.io/typing-svg)
+</h1> 
 <p align="center">
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F780C1&width=435&lines=Welcome+to+my+page.+I'm+Alice!)](https://git.io/typing-svg)
-</p>
 I am a junior pursuing a Bachelor of Science in Data Science at Purdue University and currently at Midcontinent Independent System Operator (MISO) as a data science intern!
-
+</p>
 <img align= "right" alt="GIF" src="https://github.com/alicehaemi/alicehaemi/assets/88690930/7ac56a3d-3e27-44e1-b285-617286740296" width="300" />
 
 # Skills
-
+<p align="center">
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -15,8 +16,11 @@ I am a junior pursuing a Bachelor of Science in Data Science at Purdue Universit
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</p>
 
 # Stay in touch!
+
+<p align="center">
 <a href="https://www.linkedin.com/in/haemi-lee/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>  
 </a> 
@@ -24,4 +28,4 @@ I am a junior pursuing a Bachelor of Science in Data Science at Purdue Universit
 <a href="mailto: alicehaemilee@gmail.com"> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
-
+</p>
