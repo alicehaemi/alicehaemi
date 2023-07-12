@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=768DF7&width=440&lines=Hi, I'm+Alice+Lee)](https://git.io/typing-svg)
+# 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=F77BE4&width=435&lines=Hi%2C+I'm+Alice+Lee)](https://git.io/typing-svg)
 
 
 <p align="center">
