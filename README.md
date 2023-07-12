@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=768DF7&width=460&lines=I'm+Alice+Lee,+Welcome+to+my+Github!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=768DF7&width=460&lines=Hi, I'm+Alice+Lee)](https://git.io/typing-svg)
 
 
 <p align="center">
@@ -19,7 +19,7 @@ I am a junior pursuing a Bachelor of Science in Data Science at Purdue Universit
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-# Stay in Touch! 
+# :phone: Stay in Touch! :phone:
 
 <a href="https://www.linkedin.com/in/haemi-lee/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>  
