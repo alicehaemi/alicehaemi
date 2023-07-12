@@ -1,5 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=4996&pause=1000&color=B687F7&repeat=false&width=435&height=61&lines=Hi%2C+I'm+Alice+Lee)](https://git.io/typing-svg)
-
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=4996&pause=1000&color=B687F7&repeat=false&width=435&height=61&lines=Hi%2C+I'm+Alice+Lee)](https://git.io/typing-svg)  
 <p align="center">
 I am a junior pursuing a Bachelor of Science in Data Science at Purdue University and currently at Midcontinent Independent System Operator (MISO) as a data science intern!
 </p>
