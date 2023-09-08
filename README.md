@@ -1,11 +1,11 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=4996&pause=1000&color=B687F7&center=true&vCenter=true&width=470&height=44&lines=Hi%2C+I'm+Alice+Lee%2C+Welcome!)](https://git.io/typing-svg)
 
 
-I am a rising junior pursuing a Bachelor of Science in Data Science and a minor in Management at Purdue University.  
+I am a junior pursuing a Bachelor of Science in Data Science and a minor in Management at Purdue University.  
   
-Currently, I am working as a data science intern at Midcontinent Independent System Operator (MISO) focusing on automation of data analyzing and cleaning, as well as visualizing 20+ million rows of data.
+Currently, I am working as a data science intern part-time at Midcontinent Independent System Operator (MISO) as an extension of my summer internship to focus on automation of data analyzing and cleaning, as well as visualizing many rows of data.
 
-During the school year, I take classes regarding data mining and statistical theory, as well as many others which you can find on my LinkedIn. I also plan to continue my positions as a data assistant for the College of Science, where I work with data regarding admissions, classes, majors, and retention to create visualizations and faciliate for easier use of Tableau, and as a teaching assitant for the Data Mine, where I aid students who don't have much experience coding in Linux, R, and Python.
+In school, I take classes regarding data mining and statistical theory, as well as many others which you can find on my LinkedIn. I also plan to continue my positions as a data assistant for the College of Science, where I work with data regarding admissions, degrees, majors, and retention to create visualizations and faciliate for easier use of Tableau.
 
 ## :computer: Skills 
 <img align= "right" alt="GIF" src="https://github.com/alicehaemi/alicehaemi/assets/88690930/7ac56a3d-3e27-44e1-b285-617286740296" width="300" />
