@@ -9,7 +9,7 @@ In school, I take classes regarding Artificial Intelligence (AI) and information
 
 ## 👩‍💻 Check out my Website!
 <a href="https://www.alicehlee.com">
-<img src="Website.png">  
+<img src="Website.png" width="500>  
 </a> 
 
 ## :computer: Skills 
