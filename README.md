@@ -9,7 +9,7 @@ In school, I take classes regarding Artificial Intelligence (AI) and information
 
 ## 👩‍💻 Check out my Website!
 <a href="https://www.alicehlee.com">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>  
+<img src="Website.png">  
 </a> 
 
 ## :computer: Skills 
