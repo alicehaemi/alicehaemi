@@ -8,7 +8,7 @@ Over the fall, I worked as a data science intern at Midcontinent Independent Sys
 In school, I take classes regarding Artificial Intelligence (AI) and information systems, as well as many others which you can find on my LinkedIn. I also have been a data assistant for the College of Science data office, where I work with various data including admissions, degrees, majors, and retention to create visualizations and faciliate for easier use of Tableau, as well as rewriting statistical reports with python for better readability, usage, and efficiency.
 
 ## 👩‍💻 Check out my Website!
-[<img src="Website.png">](https://www.alicehlee.com)
+[<img src="Website.png" width="500">](https://www.alicehlee.com)
 
 ## :computer: Skills 
 <img align= "right" alt="GIF" src="https://github.com/alicehaemi/alicehaemi/assets/88690930/7ac56a3d-3e27-44e1-b285-617286740296" width="300" />
