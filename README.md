@@ -3,11 +3,15 @@
 
 I am a rising senior pursuing a Bachelor of Science in Data Science and a minor in Management at Purdue University, with an anticipated graudation in December 2024.  
 
-Currently, I work as an automation intern at Ecolab, working with the Operations Automations team on creating automations with Python and using REST APIs, as well as Swimlane, which helps our IT department efficiently handle tickets and tasks that get requested. During the internship, I also worked on a hackathon where I was able to utilize data cleaning, manipulation, and visualization, to create a geo-spacial map in Power BI using unstructured, uncleaned data over 3 million rows.
+## Currently...
+I work as an automation intern at Ecolab, working with the Operations Automations team on creating automations with Python and using REST APIs, as well as Swimlane, which helps our IT department efficiently handle tickets and tasks that get requested. During the internship, I also worked on a hackathon where I was able to utilize data cleaning, manipulation, and visualization, to create a geo-spacial map in Power BI using unstructured, uncleaned data over 3 million rows.
 
-Last summer and fall semester, I worked as a data science intern at Midcontinent Independent System Operator (MISO) to focus on automation of data analyzing and cleaning, as well as visualizing and optimizing big data using Tableau and Python.
+## During the Semester...
+Most recently, I took courses on Artificial Intelligence (AI) and Information Systems, as well as many others which you can find on my LinkedIn. I'll be entering my final semester this fall, where I'll work on a capstone project and learn more about Large Scale Data Analysis. I also have been a data engineer + assistant for the College of Science Data Management office for two years, where I work with various data including admissions, degrees, majors, and retention to create visualizations and faciliate for easier use of Tableau, as well as rewriting statistical reports with python for better readability, usage, and efficiency.
 
-In school, I take classes regarding Artificial Intelligence (AI) and information systems, as well as many others which you can find on my LinkedIn. I also have been a data engineer + assistant for the College of Science Data Management office, where I work with various data including admissions, degrees, majors, and retention to create visualizations and faciliate for easier use of Tableau, as well as rewriting statistical reports with python for better readability, usage, and efficiency.
+## In the past...
+I worked as a data science intern at Midcontinent Independent System Operator (MISO) during the summer of 2023 and throughout fall of 2023 as a part-time intern to focus on automating data cleaning and analyzing processes, as well as visualizing and optimizing big data using Tableau, Python, and SQL.
+
 
 ## 👩‍💻 Check out my Website!
 [<img src="Website.png" width="500">](https://www.alicehlee.com)
