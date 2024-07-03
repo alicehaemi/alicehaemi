@@ -1,11 +1,13 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=4996&pause=1000&color=B687F7&center=true&vCenter=true&width=470&height=44&lines=Hi%2C+I'm+Alice+Lee%2C+Welcome!)](https://git.io/typing-svg)
 
 
-I am a junior pursuing a Bachelor of Science in Data Science and a minor in Management at Purdue University, with an anticipated graudation in December 2024.  
-  
-Over the fall, I worked as a data science intern at Midcontinent Independent System Operator (MISO) as an extension of my summer internship to focus on automation of data analyzing and cleaning, as well as visualizing and optimizing big data using Tableau and Python.
+I am a rising senior pursuing a Bachelor of Science in Data Science and a minor in Management at Purdue University, with an anticipated graudation in December 2024.  
 
-In school, I take classes regarding Artificial Intelligence (AI) and information systems, as well as many others which you can find on my LinkedIn. I also have been a data assistant for the College of Science data office, where I work with various data including admissions, degrees, majors, and retention to create visualizations and faciliate for easier use of Tableau, as well as rewriting statistical reports with python for better readability, usage, and efficiency.
+Currently, I work as an automation intern at Ecolab, working with the Operations Automations team on creating automations with Python and using REST APIs, as well as Swimlane, which helps our IT department efficiently handle tickets and tasks that get requested. During the internship, I also worked on a hackathon where I was able to utilize data cleaning, manipulation, and visualization, to create a geo-spacial map in Power BI using unstructured, uncleaned data over 3 million rows.
+
+Last summer and fall semester, I worked as a data science intern at Midcontinent Independent System Operator (MISO) to focus on automation of data analyzing and cleaning, as well as visualizing and optimizing big data using Tableau and Python.
+
+In school, I take classes regarding Artificial Intelligence (AI) and information systems, as well as many others which you can find on my LinkedIn. I also have been a data engineer + assistant for the College of Science Data Management office, where I work with various data including admissions, degrees, majors, and retention to create visualizations and faciliate for easier use of Tableau, as well as rewriting statistical reports with python for better readability, usage, and efficiency.
 
 ## 👩‍💻 Check out my Website!
 [<img src="Website.png" width="500">](https://www.alicehlee.com)
