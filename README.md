@@ -3,8 +3,6 @@
 
 I am a rising senior pursuing a Bachelor of Science in Data Science and a minor in Management at Purdue University, with an anticipated graudation in December 2024.  
 
-## 📆 Currently...
-
 
 ## 📝 During the Semester...
 Most recently, I took courses on Artificial Intelligence (AI) and Information Systems, as well as many others which you can find on my LinkedIn. I'll be entering my final semester this fall, where I'll work on a capstone project and learn more about Large Scale Data Analysis. I also have been a data engineer + assistant for the College of Science Data Management office for two years, where I work with various data including admissions, degrees, majors, and retention to create visualizations and faciliate for easier use of Tableau, as well as rewriting statistical reports with python for better readability, usage, and efficiency.
