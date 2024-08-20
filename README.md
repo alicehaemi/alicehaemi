@@ -13,7 +13,7 @@ I worked as an IT intern at Ecolab, working with the Operations Automations team
 I worked as a data science intern at Midcontinent Independent System Operator (MISO) during the summer of 2023 and throughout the fall semester of 2023 as a part-time intern to focus on automating data cleaning and analyzing processes, as well as visualizing and optimizing big data using Tableau, Python, and SQL.
 
 ## Check out my most recent project: Dance in Sync!
-[<img src="" width="500">](https://www.github)
+[<img src="" width="500">](https://github.com/alicehaemi/DanceInSync)
 
 ## 👩‍💻 Check out my Website!
 [<img src="Website.png" width="500">](https://www.alicehlee.com)
