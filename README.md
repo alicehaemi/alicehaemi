@@ -1,14 +1,14 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=4996&pause=1000&color=B687F7&center=true&vCenter=true&width=470&height=44&lines=Hi%2C+I'm+Alice+Lee%2C+Welcome!)](https://git.io/typing-svg)
 
+I am a Data Engineer with a Bachelor of Science in Data Science and a minor in Management obatined at Purdue University.
 
-I am a rising senior pursuing a Bachelor of Science in Data Science and a minor in Management at Purdue University, with an anticipated graudation in December 2024.  
-
-
-## 📝 During the Semester...
-Most recently, I took courses on Artificial Intelligence (AI) and Information Systems, as well as many others which you can find on my LinkedIn. I'll be entering my final semester this fall, where I'll work on a capstone project and learn more about Large Scale Data Analysis. I also have been a data engineer + assistant for the College of Science Data Management office for two years, where I work with various data including admissions, degrees, majors, and retention to create visualizations and faciliate for easier use of Tableau, as well as rewriting statistical reports with python for better readability, usage, and efficiency.
+## 📝 Currently,
+at Ecolab, working with AI!
 
 ## 📁 In the past...
-I worked as an IT intern at Ecolab, working with the Operations Automations team to create automations with Python and REST APIs, as well as Swimlane, which helps our IT department efficiently handle tickets and tasks that get requested. During the internship, I also worked on a hackathon where I was able to utilize data cleaning, manipulation, and visualization, to create a geo-spacial map in Power BI using unstructured, uncleaned data over 3 million rows.
+I was a data engineer + assistant for the College of Science Data Management office for two years, where I worked with various data including admissions, degrees, majors, and retention to create visualizations and faciliate for easier use of Tableau, as well as rewriting statistical reports with python for better readability, usage, and efficiency.
+
+I worked as an automation intern at Ecolab, working with the Operation Automations team to create automations with Python and REST APIs, as well as Swimlane, which helps our IT department efficiently handle tickets and tasks that get requested. During the internship, I also worked on a hackathon where I was able to utilize data cleaning, manipulation, and visualization, to create a geo-spacial map in Power BI using unstructured, uncleaned data over 3 million rows.
 
 I worked as a data science intern at Midcontinent Independent System Operator (MISO) during the summer of 2023 and throughout the fall semester of 2023 as a part-time intern to focus on automating data cleaning and analyzing processes, as well as visualizing and optimizing big data using Tableau, Python, and SQL.
 
