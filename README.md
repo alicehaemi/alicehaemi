@@ -15,7 +15,7 @@ I worked as a data science intern at Midcontinent Independent System Operator (M
 ## Check out my most recent project: Dance in Sync!
 [<img src="danceinsync.jpeg" width="500">](https://github.com/alicehaemi/DanceInSync)
 
-## 👩‍💻 Check out my Website!
+## 👩‍💻 Check out my Website (under going construction to a new page)!
 [<img src="Website.png" width="500">](https://www.alicehlee.com)
 
 ## :computer: Skills 
